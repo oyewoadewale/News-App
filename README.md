@@ -4,7 +4,7 @@ Description
 This app displays a list of recent news around the world
 from the Guardian Free API.
 
-What 've learnt and implemented in this project:
+What i've learnt and implemented in this project:
 
 
 Connecting to an app to the internet using an API (here i used the Guardian API).
