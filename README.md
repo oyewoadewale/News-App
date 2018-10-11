@@ -7,7 +7,7 @@ from the Guardian Free API.
 What i've learnt and implemented in this project:
 
 
-Connecting to an app to the internet using an API (here i used the Guardian API).
+Connecting an app to the internet using an API (here i used the Guardian API).
 Reading and parsing JSON data.
 Network and server connection.
 HTTP Request and JSON Parsing.
