@@ -20,5 +20,7 @@ An News.java class was created in order to parse title, sectionName, date, url a
 
 The Loader implemented was useful in order to respond to screen rotation or other phases of the Activity Lifecycle that could restart the method onCreate(), so that when the loader already exists, the infomation will keep on the screen.
 
+You can download the app here: https://drive.google.com/drive/u/0/folders/16sXRL9l7-MUTQ11-f3-dOrj7aNr7uQwS
+
 Here is a screen shot of the app
 ![screenshot_2018-10-12-20-39-44](https://user-images.githubusercontent.com/38193029/46891626-5e5bee00-ce62-11e8-9f9e-e3ac7f3539f2.png)
